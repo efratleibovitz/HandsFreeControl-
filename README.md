@@ -10,7 +10,7 @@ AirCommand uses your **webcam** and **microphone** as smart sensors to control m
 
 | Input | Gesture / Word | Action |
 |-------|---------------|--------|
-| ✋ Camera | Open hand — fingers spread | Control volume by distance |
+| ✋ Camera | Open hand — fingers spread | Volume up when distance > 50%, down when < 20% |
 | ✊ Camera | Fist | Play / Pause |
 | 📷 Camera | Wrist in top third of frame | Scroll up |
 | 📷 Camera | Wrist in bottom third of frame | Scroll down |
